@@ -1,0 +1,27 @@
+{
+  "name": "simple-editor",
+  "version": "1.0.0",
+  "description": "Simple text Editor.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belicfr/simple-editor.git"
+  },
+  "keywords": [
+    "simple",
+    "editor"
+  ],
+  "author": "belicfr",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/belicfr/simple-editor/issues"
+  },
+  "homepage": "https://github.com/belicfr/simple-editor#readme",
+  "devDependencies": {
+    "electron": "^23.1.2"
+  }
+}
